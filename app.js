@@ -1,5 +1,5 @@
 
-import "nes.css/css/nes.min.css";
+
 
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
