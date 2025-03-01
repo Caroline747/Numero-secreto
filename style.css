@@ -9,7 +9,6 @@
 }
 
 body {
-    background: linear-gradient(#1354A5 0%, #041832 33.33%, #041832 66.67%, #01080E 100%);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -18,15 +17,15 @@ body {
 
 
 body::before {
-    background-image: url("img/code.png");
+    background-image: url("img/1082.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: right;
     content: "";
     display: block;
     position: absolute;
     width: 100%;
     height: 100%;
-    opacity: 0.4;
 }
 
 .container {
