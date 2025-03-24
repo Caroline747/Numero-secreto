@@ -2,13 +2,21 @@
 
 <img src="/img/imagem jogo.png" alt="jogo numero secreto">
 
-> Um jogo de achar qual e o numero secreto.
+> Um jogo de adivinhar qual é o numero secreto.
 
 ### Ajustes e melhorias
 
 - [x] Responsive voice
 - [x] Numero aleatório 
 - [x] Reiniciar jogo
+
+### Ferramentas usadas
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] NES.css is a **NES-style(8bit-like)** CSS Framework.
+
 
 ## 📫 Contribuindo para <numero-secreto>
 
