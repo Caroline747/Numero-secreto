@@ -1,6 +1,6 @@
 # Jogo Numero Secreto
 
-<img src="/img/imagem jogo.png" alt="jogo numero secreto">
+<img src="/img/jogoS.png" alt="jogo numero secreto">
 
 > Um jogo de adivinhar qual é o numero secreto.
 
